@@ -178,3 +178,26 @@ int main() {
 }
 
 // } Driver Code Ends
+/*
+Hi, I'm a Fresher Flutter Developer and Night Coder 🌃
+
+I'm a C.S. student 👨‍🎓 at Government Engineering College Rajkot.
+
+ Passionate Flutter Developer | Fresher 
+I am a results-driven Flutter developer with a track record of creating high-quality mobile applications that deliver exceptional user experiences. I have honed my skills to perfection and am committed to staying at the cutting edge of mobile app development.
+
+💡 Key Strengths:
+ 📍 Focus on your unique value proposition, such as problem-solving skills, experience with Flutter, 
+  DSA expertise, and commitment to building scalable products
+
+📍Flutter Expertise: I possess a deep understanding of the Flutter framework, enabling me to create cross-platform mobile applications that are both performant and visually stunning.
+
+📍UI/UX Excellence: I excel in crafting elegant, user-friendly interfaces that enhance user engagement and satisfaction.
+
+📍Problem Solver: I thrive on overcoming challenges, whether it's optimizing app performance or troubleshooting complex issues.
+
+📬 Let's Connect:
+I'm always open to exciting opportunities and collaborations. Whether it's discussing potential projects, sharing insights on mobile app development, or simply connecting with like-minded professionals, feel free to reach out. Let's create innovative solutions together!
+
+#Flutter #MobileApps #UIUX #ProblemSolver
+*/
