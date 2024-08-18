@@ -28,7 +28,7 @@ public:
 
     // Pop an element from the stack
     int pop() {
-        if (isEmpty()) {
+        if (top == nullptr) {
             cout << "Stack Underflow" << endl;
             return -1; // Error value
         }
