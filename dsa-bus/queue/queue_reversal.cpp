@@ -1,7 +1,7 @@
 //{ Driver Code Starts
 //Initial Template for C++
 #include<iostream>
-#include<bits/stdc++.h>
+#include<stack>
 using namespace std;
 
 // } Driver Code Ends

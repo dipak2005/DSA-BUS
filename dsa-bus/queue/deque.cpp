@@ -1,6 +1,7 @@
 
 
-#include <bits/stdc++.h>   
+#include <iostream>
+using namespace std; 
 class Deque  
 {  
     int* arr;  
@@ -144,3 +145,19 @@ public:
         return (qfront == 0 && rear == size - 1) || (qfront != 0 && (rear + 1) % size == qfront);  
     }  
 };
+int main () {
+    Deque d(10);
+    d.pushFront(5);
+    d.pushRear(20);
+
+cout<< "front" << d.getFront() << endl;
+    d.pushFront(-4);
+    d.pushRear(25);
+cout << "back" << d.getRear() << endl; 
+    d.popFront();
+    d.popRear();
+
+ cout<< "front" << d.getFront() << endl;
+cout << "back" << d.getRear() << endl;   
+    return 0;
+}

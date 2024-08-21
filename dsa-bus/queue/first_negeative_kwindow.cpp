@@ -44,6 +44,7 @@ vector<long long> printFirstNegativeInteger(long long int A[],
        }
    }
    
+   // deque is empty of element have in  
    if( dq.size() > 0) 
    {
        ans.push_back(A[dq.front()]);

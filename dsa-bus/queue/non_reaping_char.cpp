@@ -1,5 +1,7 @@
 //{ Driver Code Starts
-#include<bits/stdc++.h>
+#include<iostream>
+#include<unordered_map>
+#include<queue>
 using namespace std;
 
 // } Driver Code Ends
@@ -24,7 +26,7 @@ class Solution {
 		       while(!q.empty()) 
 		       {
 		           // frequency is more then one
-		           if(map[q.front()] >1 )
+		           if(map[q.front()] > 1 )
 		           {
 		               q.pop();
 		           }
