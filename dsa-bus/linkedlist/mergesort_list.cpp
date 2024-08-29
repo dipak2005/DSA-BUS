@@ -1,6 +1,7 @@
-/********************************************************************
 
-    Following is the representation of the Singly Linked List Node:
+#include<iostream>
+using namespace std;
+    // Following is the representation of the Singly Linked List Node:
 
     class node{
         public:
@@ -12,7 +13,7 @@
             }
     };
     
-********************************************************************/
+
 
 
 node* findMid(node* head){
