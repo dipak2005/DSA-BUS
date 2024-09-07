@@ -2,6 +2,7 @@
 //Initial Template for C++
 #include<iostream>
 #include<stack>
+#include<queue>
 using namespace std;
 
 // } Driver Code Ends
