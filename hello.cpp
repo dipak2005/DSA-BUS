@@ -21,9 +21,16 @@ int main () {
     string arr[]={"zero","one","two","three","four","five","six","seven","eight","ning"};
     int n;
     cin >> n;
+    int newnum = 0;
+    while (n != 0)
+    {
+        int remainder = n%10;
+        newnum = newnum *10+ remainder;
+        n=n/10;
+    }
     
-    
-    sayDigit(n,arr);
+    cout<< newnum << endl;
+    // sayDigit(n,arr);
     
  return 0;   
 }

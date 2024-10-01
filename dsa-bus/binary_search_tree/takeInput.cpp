@@ -286,7 +286,7 @@ void insertIntoBSt(Node *&root, int d)
   }
   else
   {
-    // root->left=
+    // root->left =
     insertIntoBSt(root->left, d);
   }
   // return root;
